@@ -3,4 +3,4 @@ This project represents a complete, industry standard, end-to-end data analytics
 
 This project follows a structured analytics workflow consisting of business understanding, data preprocessing, SQL analysis, dashboard creation, reporting, and documentation.
 
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/17789e9a-82bb-4559-ac28-554fc665844e" />
+<img width="1699" height="926" alt="image" src="https://github.com/user-attachments/assets/2601f212-8716-4241-8aea-1db78afbc98e" />
